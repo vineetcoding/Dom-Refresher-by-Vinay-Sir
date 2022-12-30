@@ -1,0 +1,15 @@
+/* .first{ */
+    /* display: flex; */
+    /* border: 2px solid blue; */
+    
+/* } */
+body{
+    font-size: 4rem;
+}
+.modal{
+ display: flex; 
+ /* border: 2px solid red;   */
+ font-size: 4rem;
+ display: none;
+
+}
